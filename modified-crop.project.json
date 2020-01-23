@@ -1,0 +1,14 @@
+[
+  {
+    "type": "sourcecred/project",
+    "version": "0.3.0"
+  },
+  {
+    "discourseServer": {
+      "serverUrl": "https://discourse.sourcecred.io"
+    },
+    "id": "modified-crop",
+    "identities": [],
+    "repoIds": []
+  }
+]
